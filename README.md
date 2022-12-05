@@ -1,10 +1,9 @@
 Đây là Github repo cho thực hành Git.
 
 # Phần 1 - Cấu hình Git:
-
 Lệnh để cấu hình Git:
 
-  git config --global user.name "Name"
+  $ git config --global user.name "Name"
   git config --global user.email "abc@xyz.com"
   
 # Phần 2 - Khởi tạo Git repo
