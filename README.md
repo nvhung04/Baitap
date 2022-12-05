@@ -8,7 +8,7 @@ Lệnh để cấu hình Git:
   git config --global user.email "abc@xyz.com"
   
 # Phần 2 - Khởi tạo Git repo
-Lệnh để khởi tạo Git repo là: // git init
+Lệnh để khởi tạo Git repo là: git init
 
 # Phần 3 -Commit
 Dùng hai lệnh để commit thay đổi lên Git repo:
