@@ -22,6 +22,5 @@ Dùng hai lệnh để commit thay đổi lên Git repo:
   
   git commit -m "Thông điệp commit"
   ```
-
 ## Phần 4 - Push
 Push local repo lên Remote repo trên Github.
